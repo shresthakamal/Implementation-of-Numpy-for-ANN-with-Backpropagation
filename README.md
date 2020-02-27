@@ -15,5 +15,10 @@ Autodifferentiation
 Local and Global Gradient, Flow of Gradients
 
 
-
 # Try it out for multiple samples too
+
+
+Dimensions in Backpropagations
+
+
+
